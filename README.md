@@ -4,8 +4,6 @@
 This is a simple and interactive Python project that lets you detect colors from an image.
 Just double-click anywhere on the image, and it will instantly tell you the color name along with its RGB values.
 
-It’s a great beginner project to understand how image processing works in real time.
-
 ## Setup Instructions
 ### 1. Install Python
 
